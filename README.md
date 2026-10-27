@@ -1,0 +1,2 @@
+# StockTradingPlatform
+stock trading platform
